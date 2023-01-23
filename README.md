@@ -1,1 +1,2 @@
-# learn_python
+# Basics of python course
+
