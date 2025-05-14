@@ -1,9 +1,0 @@
-{
-    "attendance": [
-        {"CourseName": "Course 1", "Attendance": 10},
-        {"CourseName": "Course 2", "Attendance": 13},
-        {"CourseName": "Course 3", "Attendance": 5}
-    ],
-    "Number of courses": 5,
-    "Number of teachers": 10
-}
