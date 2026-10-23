@@ -1,0 +1,6 @@
+# Libraries used by the course notebooks (Classes 9-11)
+requests
+beautifulsoup4
+cryptography
+rsa
+numpy
